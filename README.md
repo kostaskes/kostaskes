@@ -1,10 +1,20 @@
-# 👋 Hello, I'm Kostas
+# 👋 Hello, I'm Kostas!
 
-## About Me
+I am a passionate Data Professional with a diverse skill set in Data Manipulation, Reporting, Analysis & Visualization. Currently, I work as a full-time Data Analyst at Mix Markt, where I've been contributing since October 2018. My work is characterized by a hybrid model, allowing me to combine on-site and remote work in Thessaloniki, Greece.
 
-I am a passionate Data Professional with a diverse skill set in Data Manipulation, Reporting, Analysis & Visualization. My experience includes analyzing data to identify trends and opportunities for improvement. I am excited to continue growing in the field of data and applying my skills to drive business growth and improve operational efficiency.
+## 📊 Professional Experience
 
-📚 Currently attending Tech Pro Academy, specializing in the Data Science stream, which fuels my skills and passion for data.
+### Mix Markt Greece (Oct 2018 - Present)
+
+- **Position:** Data Analyst
+- **Location:** Thessaloniki, Greece (Hybrid)
+
+**Key Responsibilities:**
+- Data extraction, transformation, and analysis using Excel, Google Sheets, and SQL queries.
+- Developed, implemented, and maintained Power BI dashboards and reports, providing actionable insights for strategic planning (Power BI, DAX).
+- Ad-hoc reporting to support decision-making on a daily basis.
+- Prepared financial reports for each individual store and the company as a whole on a monthly, quarterly, and yearly basis.
+- Facilitated communication between upper management and store managers to streamline procedures for enhanced efficiency.
 
 ## 🛠️ Industry Tools
 
