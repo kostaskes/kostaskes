@@ -1,37 +1,39 @@
 # 👋 Hello, I'm Kostas!
 
-I am a passionate **Data Professional** with a diverse skill set in Data Manipulation, Reporting, Analysis & Visualization. 
-My academic background is in **Business Management**, which gives me a strong foundation in strategic thinking and a business-oriented mindset. This perspective allows me to bridge the gap between data and decision-making — I focus not just on the *how*, but also on the *why*.  
+A passionate **Data Professional** with a diverse skill set in Data Manipulation, Reporting, Analysis & Visualization.
+My academic background is in **Business Management**, which gives me a strong foundation in strategic thinking and a business-oriented mindset. 
+This perspective allows me to bridge the gap between data and decision-making. 
+I focus not just on the *how*, but also on the *why*.  
 
-Rather than approaching problems purely from a technical angle, I prioritize insights that drive real business value and impact.
-Currently, I work as a full-time Data Analyst at Mix Markt, where I've been contributing since October 2018. 
+In my most recent role, I worked as part of an international team in a fully remote setting, delivering data-driven solutions that supported business goals and enhanced decision-making.
 
 ## 🛠️ Tools
 
 - **Programming Languages:** SQL, Python, R
-- **Tools:** PowerBI & Tableau, Excel & Google Sheets (Advanced)
-- **Libraries:** NumPy, Pandas, Tensorflow, Keras, Matplotlib, scikit-learn, PyTorch
+- **Tools:** PowerBI, Tableau, Looker, Excel & Google Sheets (Advanced)
+- **Libraries:** NumPy, Pandas, Matplotlib, scikit-learn, PyTorch, Tensorflow, Keras
 
-## 💡 Skills
+## 💡 Professional Attributes
 
-- Data ETL Process
-- Reporting - KPIs
-- Data Visualization
-- Stakeholder communication
-- Collaboration
-- Analytical thinking
-- Organizational skills
-- Attention to detail
-- Continuous learning
+- Critical and analytical thinking
+- Business-oriented mindset
+- Strong organizational and communication skills
+- High attention to detail
+- Effective time management
+- Creative and proactive problem-solving
+- Collaborative team player with a growth mindset
 
 
 ## 🚀 What I'm Currently Doing
 
-I am actively learning and growing in the field of Data Analytics through my studies at Tech Pro Academy.
+- 📚 Actively learning and growing in the field of **Data Analytics**, with a focus on both technical skills and business applications.
+- 🧾 Running a side project where I help small businesses track their finances using a custom-built template — fully automated, minimal effort, maximum impact.
+- 💼 Open to exciting new opportunities where I can apply my skills to solve real-world problems and deliver impactful insights as I grow in my career.
+
 
 ## 📫 Let's Connect!
 
-Feel free to reach out and connect. I am always open to discussions, collaborations, and opportunities in the data space.
+Feel free to reach out. I am always open to discussions, collaborations, and opportunities in the data space.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/konstantinos-kesidis/)
 
