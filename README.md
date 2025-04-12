@@ -27,8 +27,8 @@ In my most recent role, I worked as part of an international team in a fully rem
 ## 🚀 What I'm Currently Doing
 
 - 📚 Actively learning and growing in the field of **Data Analytics**, with a focus on both technical skills and business applications.
-- 🧾 Running a side project where I help small businesses track their finances using a custom-built template — fully automated, minimal effort, maximum impact.
-- 💼 Open to exciting new opportunities where I can apply my skills to solve real-world problems and deliver impactful insights as I grow in my career.
+- 🧾 Running a side project where I help businesses track their finances using a custom-built gsheet template — fully automated, minimal effort, maximum impact.
+  - Check it out here: [**Finance Tracker**](https://github.com/kostaskes/gsheet-financial-template)
 
 
 ## 📫 Let's Connect!
