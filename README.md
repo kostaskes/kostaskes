@@ -34,7 +34,7 @@ In my most recent role, I worked as part of an international team in a fully rem
 ## 📂 Projects
 
 - [**Running Analysis**](https://github.com/kostaskes/my-garmin-runs)  
-  An analysis of over 600 running activities, including performance insights, trends, and intensity clustering using KMeans.
+  A **Python-based personal project** that analyzes over 600 of my running activities. It provides valuable insights into performance trends, running patterns, and clusters activities based on intensity using KMeans clustering.
 
 - [**Finance Tracker**](https://github.com/kostaskes/gsheet-financial-template)  
   A template to help businesses track their finances with an automated, minimal-effort system.
