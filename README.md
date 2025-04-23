@@ -27,7 +27,7 @@ In my most recent role, I worked as part of an international team in a fully rem
 
 - 📚 Actively learning and growing in the field of **Data Analytics**, with a focus on both technical skills and business applications.
 - 🧾 Running a side project where I help businesses track their finances using a custom-built gsheets template — fully automated, minimal effort, maximum impact.
-  - Check it out here: [**Finance Tracker**](https://github.com/kostaskes/gsheet-financial-template)
+  - Check it out here 👉 [**Finance Tracker**](https://github.com/kostaskes/gsheet-financial-template)
  
 ---
 
