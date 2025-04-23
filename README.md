@@ -45,7 +45,7 @@ In my most recent role, I worked as part of an international team in a fully rem
 
 ## 📫 Let's Connect!
 
-Feel free to reach out. I am always open to discussions, collaborations, and opportunities in the data space.
+Feel free to reach out. I am always open to discussions, collaborations and opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/konstantinos-kesidis/)
 
