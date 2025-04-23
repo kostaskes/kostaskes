@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Kostas!
 
 A passionate **Data Professional** with a diverse skill set in Data Manipulation, Reporting, Analysis & Visualization.
+
 My academic background is in **Business Management**, which gives me a strong foundation in strategic thinking and a business-oriented mindset. 
 This perspective allows me to bridge the gap between data and decision-making. 
 I focus not just on the *how*, but also on the *why*.  
